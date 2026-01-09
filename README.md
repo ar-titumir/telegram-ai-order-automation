@@ -1,4 +1,4 @@
-````md
+
 # AI-Powered Telegram Order Automation (n8n + LangChain)
 
 This project demonstrates a **production-ready AI automation pipeline** built using **n8n** and **LLMs (via LangChain/OpenAI)** to handle **Telegram customer interactions**, provide **context-aware replies using business data**, and **automatically record completed orders** into Google Sheets.
@@ -54,7 +54,6 @@ The system is designed to reduce manual workload, ensure consistent responses, a
 
 ## 📂 Project Structure
 
-```text
 telegram-ai-order-automation/
 │
 ├── n8n/
@@ -73,7 +72,6 @@ telegram-ai-order-automation/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-````
 
 ---
 
