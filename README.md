@@ -53,7 +53,7 @@ The system is designed to reduce manual workload, ensure consistent responses, a
 ---
 
 ## 📂 Project Structure
-
+```
 telegram-ai-order-automation/
 │
 ├── n8n/
@@ -72,7 +72,7 @@ telegram-ai-order-automation/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-
+```
 ---
 
 ## 🚀 Getting Started
